@@ -2347,5 +2347,17 @@
 		"category": "Stores",
 		"tags": ["in-page navigation", "stores and state"],
 		"stars": 1
+	},
+	{
+        "addedOn": "2020-09-29T14:39:13Z",
+        "category": "Data Visualisation",
+        "description": "A component to render a credit card preview - useful for ecommerce.",
+		"npm": "svelte-credit-cards",
+		"stars": 27,
+		"tags": [
+			"components and libraries"
+		],
+		"title": "svelte-credit-cards",
+		"url": "https://github.com/CharlyJazz/svelte-credit-card"
 	}
 ]
